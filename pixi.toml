@@ -1,0 +1,10 @@
+[workspace]
+authors = ["Michaël SOK <michael.sok@credit-agricole-sa.fr>"]
+channels = ["conda-forge"]
+name = "quant"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
